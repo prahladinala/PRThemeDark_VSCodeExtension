@@ -1,0 +1,26 @@
+{
+  "name": "pr-vs-theme-dark",
+  "displayName": "PR VS Theme Dark",
+  "description": "VS Code Theme for the late night developers",
+  "version": "0.0.1",
+  "author": {
+    "name": "Prahlad Inala"
+  },
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "icon": "icon.png",
+  "publisher": "PrahladInala",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PR Dark Theme 01",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PRahlad Inala-color-theme.json"
+      }
+    ]
+  }
+}
